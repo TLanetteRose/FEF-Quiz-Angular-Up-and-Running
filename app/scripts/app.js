@@ -9,4 +9,4 @@
  * Main module of the application.
  */
 angular
-  .module('q1UpAndRunningApp', []);
+  .module('q1UpAndRunningApp', ['legoBricks']);
